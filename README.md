@@ -3,6 +3,7 @@ Este blog se hizo para el curso de Git y GitHub, con la intención de desarrolla
 - Manejo de versiones.
 - Mejorar las herremientas de trabajo colaborativo.
 - Explorar otros **proyectos** de interés.
+* Creado por DAVG
 
 ![](https://www.sketchappsources.com/resources/source-image/spacex-nasa-demo-2-launch.png)
 
