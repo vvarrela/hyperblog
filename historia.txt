@@ -1,7 +1,9 @@
 Esta es mi biografía
 
-Soy Diego varela
+Soy Diego Varela
 
-Tengo 26 años, soy ingeniero
+Tengo 26 años, soy ingeniero de sistemas
+
+Soy colombiano
 
 
