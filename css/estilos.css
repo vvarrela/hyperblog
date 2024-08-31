@@ -6,7 +6,7 @@ body{
 }
 
 #cabecera{
-    background:#33A;
+    background:rgb(39, 39, 126);
     box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.5);
     color: #fff;
     font-weight: bold;
