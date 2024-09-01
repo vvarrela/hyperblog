@@ -7,5 +7,7 @@ Veremos cosas como:
 - Creación de la cuenta de GitHub
 - Comandos Git
 - Flujo profesional de trabajo colaborativo
+- Creado por el mejor inge
+- Aprendiendo linux Ubuntu
 
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
